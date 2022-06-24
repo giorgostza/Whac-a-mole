@@ -1,0 +1,21 @@
+.grid{
+
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+
+    width: 200px;
+    height: 200px;
+    border: solid blueviolet 1px;
+}
+
+.mole{
+
+    background-image:url("clown.png") ;
+    background-size: cover;
+
+}
